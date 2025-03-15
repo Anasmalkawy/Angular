@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\anasj\\desktop\\ang asp.nset\\angularapp1\\angularapp1.client\\src\\app\\catogore\\catogore.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\catogore\\catogore.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\anasj\\desktop\\ang asp.nset\\angularapp1\\angularapp1.client\\src\\app\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\anasj\\desktop\\ang asp.nset\\angularapp1\\angularapp1.client\\src\\app\\nav\\nav.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\nav\\nav.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\anasj\\desktop\\ang asp.nset\\angularapp1\\angularapp1.client\\src\\app\\signin\\signin.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\signin\\signin.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\anasj\\desktop\\ang asp.nset\\angularapp1\\angularapp1.client\\src\\app\\signup\\signup.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\signup\\signup.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\anasj\\desktop\\ang asp.nset\\angularapp1\\angularapp1.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\anasj\\desktop\\ang asp.nset\\angularapp1\\angularapp1.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\anasj\\desktop\\ang asp.nset\\angularapp1\\angularapp1.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\anasj\\desktop\\ang asp.nset\\angularapp1\\angularapp1.client\\src\\app\\signup\\signup.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\signup\\signup.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\anasj\\desktop\\ang asp.nset\\angularapp1\\angularapp1.client\\src\\app\\signup\\signup.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\signup\\signup.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\anasj\\desktop\\ang asp.nset\\angularapp1\\angularapp1.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\anasj\\desktop\\ang asp.nset\\angularapp1\\angularapp1.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{735016AC-1F5A-4B19-86A8-31C45E4FE6A9}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "catogore.component.html",
+              "DocumentMoniker": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\catogore\\catogore.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\catogore\\catogore.component.html",
+              "ToolTip": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\catogore\\catogore.component.html*",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\catogore\\catogore.component.html*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-13T01:45:01.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "product.component.html",
+              "DocumentMoniker": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\product\\product.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\product\\product.component.html",
+              "ToolTip": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\product\\product.component.html*",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\product\\product.component.html*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-13T01:44:32.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\app-routing.module.ts*",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app-routing.module.ts*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T01:41:20.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "signin.component.html",
+              "DocumentMoniker": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\signin\\signin.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\signin\\signin.component.html",
+              "ToolTip": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\signin\\signin.component.html*",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\signin\\signin.component.html*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-13T01:29:55.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "signup.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\signup\\signup.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\signup\\signup.component.spec.ts",
+              "ToolTip": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\signup\\signup.component.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\signup\\signup.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T01:29:08.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-13T01:28:52.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T01:28:48.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T01:28:39.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "signup.component.html",
+              "DocumentMoniker": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\signup\\signup.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\signup\\signup.component.html",
+              "ToolTip": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\signup\\signup.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\signup\\signup.component.html",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-13T01:27:32.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nav.component.html",
+              "DocumentMoniker": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\nav\\nav.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\nav\\nav.component.html",
+              "ToolTip": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\nav\\nav.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\nav\\nav.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-13T01:39:17.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "signup.component.ts",
+              "DocumentMoniker": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\signup\\signup.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\signup\\signup.component.ts",
+              "ToolTip": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\app\\signup\\signup.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\signup\\signup.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T01:29:10.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\index.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Anasj\\Desktop\\ang asp.nset\\AngularApp1\\angularapp1.client\\src\\index.html",
+              "RelativeToolTip": "angularapp1.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-13T01:34:52.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
